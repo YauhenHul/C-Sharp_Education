@@ -1,0 +1,15 @@
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\bin\Debug\net7.0\Task_2.exe
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\bin\Debug\net7.0\Task_2.deps.json
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\bin\Debug\net7.0\Task_2.runtimeconfig.json
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\bin\Debug\net7.0\Task_2.dll
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\bin\Debug\net7.0\Task_2.pdb
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.csproj.AssemblyReference.cache
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfoInputs.cache
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfo.cs
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.csproj.CoreCompileInputs.cache
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.dll
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\obj\Debug\net7.0\refint\Task_2.dll
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.pdb
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\obj\Debug\net7.0\Task_2.genruntimeconfig.cache
+D:\Обучение\C#\Lessons\Lesson_1\Task_2\obj\Debug\net7.0\ref\Task_2.dll
